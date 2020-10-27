@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "my app",
+      "discription": "this is my app ",
+      "id": 5
+    },
+    {
+      "title": "heyy streamy",
+      "discription": "this is my streamy app ",
+      "id": 8
+    }
+  ]
+}
